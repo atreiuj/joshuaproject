@@ -1,2 +1,2 @@
 # joshuaproject
-My AP Computer Science Prokect
+My AP Computer Science Project
